@@ -53,13 +53,12 @@ I have published some papers at the filed of imaging neuroscience with total <a 
 - *2019.12* Model student scholarship, UESTC
 
 # 📖 Educations
-- *2025.09 - 2029.09 (expected)*, PhD degree, Hong Kong Baptist University 
-- *2022.09 - 2025.07*, M.S. degree, University of Electronic Science and Technology of China
-- *2018.09 - 2022.07*, B.S. degree, University of Electronic Science and Technology of China
+- *2025.09 - 2029.09 (expected)*, PhD degree, Department of Physics, Faculty of Science, HKBU
+- *2022.09 - 2025.07*, M.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
+- *2018.09 - 2022.07*, B.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Research Experience
+- *2025.07 - present*, PhD degree, Hong Kong Baptist University
+- *2022.04 - 2025.06*, [Wei Liao Group](https://github.com/weiliao81/) (supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)), [Brain Imaging and Pattern Recognition Laboratory](https://yz.uestc.edu.cn/info/1041/5231.htm) (supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ))
+- *2020.09 - 2022.03*, Brain and Music group (supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)), [Key Laboratory for NeuroInformation of Ministry of Education](https://neuro.uestc.edu.cn/) (supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ))
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
