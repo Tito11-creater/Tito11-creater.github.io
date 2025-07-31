@@ -32,6 +32,11 @@ I have published several papers in the filed of imaging neuroscience with total 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/bioRxiv_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal, multifaceted Imaging-based Human Brain White Matter Atlas](https://www.biorxiv.org/content/10.1101/2024.11.24.625092v1.abstract)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain Sciences 2022</div><img src='images/Brain_sciences_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +64,10 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 - *2018.09 - 2022.07*, B.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
 
 # 💻 Research Experience
-- *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
-- *2022.04 - 2025.06*, Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
-- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
+- *2025.07 - present*
+Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
+- *2022.04 - 2025.06*
+Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
+- *2020.09 - 2022.03*
+Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
