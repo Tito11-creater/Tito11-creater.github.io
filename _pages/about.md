@@ -22,7 +22,7 @@ Hi! I’m a first-year PhD candidate majoring in application of statistical phys
 
 My current research interests focuses on computational modeling in imaging neuroscience.
 
-I have published several papers in the filed of imaging neuroscience with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>.
+I have published several papers in the filed of imaging neuroscience with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
