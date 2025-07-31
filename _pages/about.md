@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Junchen Zhou - Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
