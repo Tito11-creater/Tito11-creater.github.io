@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD student majoring in Application of Statistical Physics in Imaging Neuroscience from Hong Kong Baptist University, under the guidance of Prof.Changsong Zhou <https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl>. Before that I obtained my M.S. and B.S. degrees from University of Electronic Science and Technology of China.
+Hi! I’m a first-year PhD student majoring in Application of Statistical Physics in Imaging Neuroscience from Hong Kong Baptist University (HKBU), under the guidance of [Prof.Changsong Zhou] (https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from University of Electronic Science and Technology of China (UESTC).
 
 My current research interest focuses on Modeeling of Imaging Neuroscience.
 
@@ -46,12 +46,16 @@ I have published some papers at the filed of imaging neuroscience with total <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* Excellent student scholarship, UESTC 
+- *2023.11* Excellent student scholarship, UESTC
+- *2021.12* Model student scholarship, UESTC
+- *2020.12* Excellent student scholarship, UESTC
+- *2019.12* Model student scholarship, UESTC
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2029.09 (expected)*, PhD degree, Hong Kong Baptist University 
+- *2022.09 - 2025.07*, M.S. degree, University of Electronic Science and Technology of China
+- *2018.09 - 2022.07*, B.S. degree, University of Electronic Science and Technology of China
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
