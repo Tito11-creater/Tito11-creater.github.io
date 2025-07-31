@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD candidate majoring in Applied Statistical Physics for Imaging Neuroscience at Hong Kong Baptist University (HKBU), supervised by [Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from the University of Electronic Science and Technology of China (UESTC).
+Hi! I’m a first-year PhD candidate majoring in application of statistical physics in imaging neuroscience at Hong Kong Baptist University (HKBU), under the supervision of [Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from the University of Electronic Science and Technology of China (UESTC).
 
-My recent research focuses on computational modeling in imaging neuroscience, with particular interest in mapping the functional organization of white matter and Exploring the abnormal brain network dynamics in major depressive cohort.
+My current research interests focuses on computational modeling in imaging neuroscience.
 
 I have published some papers in the filed of imaging neuroscience with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations.
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
+- *2025.06*: &nbsp;🎉🎉 Attending the OHBM 2025 in Brisbane.
+- *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
+- *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*. 
 
 # 📝 Publications 
 
