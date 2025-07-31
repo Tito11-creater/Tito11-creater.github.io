@@ -37,6 +37,9 @@ I have published several papers in the filed of imaging neuroscience with total 
 
 [Multimodal, multifaceted Imaging-based Human Brain White Matter Atlas](https://www.biorxiv.org/content/10.1101/2024.11.24.625092v1.abstract)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain Sciences 2022</div><img src='images/Brain_sciences_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,12 +47,18 @@ I have published several papers in the filed of imaging neuroscience with total 
 
 Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and Dezhong Yao
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2021</div><img src='images/Frontiers_in_Neurosciences_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
 
 Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke Li, Pei Liu, Cheng Luo, Jing Lu, and Dezhong Yao
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11* Excellent student scholarship, UESTC 
