@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junchen Zhou - Homepage"
-description              : "The Scholar homepage of Junchen Zhou"
+description              :
 repository               : "Tito11-creater/Tito11-creater.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junchen Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hong Kong Baptist University"
+  bio              : "Hong Kong Baptist University (HKBU)"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Tito11-creater"
   google_plus      :
   keybase          :
   instagram        :
