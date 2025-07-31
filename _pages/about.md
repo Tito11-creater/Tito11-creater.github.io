@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD student majoring in Application of Statistical Physics in Imaging Neuroscience from Hong Kong Baptist University, under the guidance of Prof.Changsong Zhou<https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl>. Before that I obtained my M.S. and B.S. degrees from University of Electronic Science and Technology of China.
+Hi! I’m a first-year PhD student majoring in Application of Statistical Physics in Imaging Neuroscience from Hong Kong Baptist University, under the guidance of <Prof.Changsong Zhou href='https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl'>. Before that I obtained my M.S. and B.S. degrees from University of Electronic Science and Technology of China.
 
 My current research interest focuses on Modeeling of Imaging Neuroscience.
 
