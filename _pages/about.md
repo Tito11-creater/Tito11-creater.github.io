@@ -25,26 +25,26 @@ My current research interests focuses on computational modeling in imaging neuro
 I have published several papers in the filed of imaging neuroscience with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
+- *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
 - *2025.06*: &nbsp;🎉🎉 Attending the OHBM 2025 in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
 - *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain Sciences 2022</div><img src='images/Brain_sciences_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Different Music Training Modulates Theta Brain Oscillations Associated with Executive Function](https://www.mdpi.com/2076-3425/12/10/1304#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and Dezhong Yao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2021</div><img src='images/Frontiers_in_Neurosciences_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
+
+Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke Li, Pei Liu, Cheng Luo, Jing Lu, and Dezhong Yao
 
 # 🎖 Honors and Awards
 - *2024.11* Excellent student scholarship, UESTC 
