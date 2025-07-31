@@ -61,5 +61,5 @@ I have published some papers in the filed of imaging neuroscience with total <a 
 # 💻 Research Experience
 - *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
 - *2022.04 - 2025.06*, Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
-- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), [Key Laboratory for NeuroInformation of Ministry of Education](https://neuro.uestc.edu.cn/) (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
+- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
