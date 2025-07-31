@@ -1,8 +1,6 @@
 ---
 permalink: /
 title: "Junchen Zhou - Homepage"
-excerpt: ""
-author_profile: true
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
