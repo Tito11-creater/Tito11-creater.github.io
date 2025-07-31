@@ -37,6 +37,8 @@ I have published several papers in the filed of imaging neuroscience with total 
 
 [Multimodal, multifaceted Imaging-based Human Brain White Matter Atlas](https://www.biorxiv.org/content/10.1101/2024.11.24.625092v1.abstract)
 
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Jiao Li, Wei Liao
+
 </div>
 </div>
 
