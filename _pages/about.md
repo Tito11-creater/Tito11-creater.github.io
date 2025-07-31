@@ -3,9 +3,6 @@ permalink: /
 title: "Junchen Zhou - Homepage"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -52,7 +49,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers_in_Neuroscience 2021</div><img src='images/Frontiers_in_Neurosciences_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers_in_Neuroscience_2021</div><img src='images/Frontiers_in_Neuroscience_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
