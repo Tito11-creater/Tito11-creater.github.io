@@ -80,10 +80,10 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 - *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
 # 🎓 Collaborators
-- [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)
-- [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ)
-- [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ))
-- [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)
-- [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ)
-- [Dr. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ)
+- [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl), HKBU
+- [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ), UESTC
+- [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
+- [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ), UESTC
+- [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ), NJIT
+- [Dr. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
 
