@@ -81,9 +81,9 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 
 # 🎓 Collaborators
 - [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)
-- [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)
 - [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ)
 - [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ))
+- [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)
 - [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ)
-- [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ)
+- [Dr. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ)
 
