@@ -52,7 +52,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers_in_Neuroscience_2021</div><img src='images/Frontiers_in_Neuroscience_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2021</div><img src='images/Frontiers_in_Neuroscience_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
@@ -74,11 +74,8 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 - *2022.09 - 2025.07*, M.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
 - *2018.09 - 2022.07*, B.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
 
-# 💻 Research Experience
-- *2025.07 - present*
-Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
-- *2022.04 - 2025.06*
-Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
-- *2020.09 - 2022.03*
-Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
+# 💻 Research Experiences
+- *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
+- *2022.04 - 2025.06*, Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
+- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
