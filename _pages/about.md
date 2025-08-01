@@ -20,7 +20,7 @@ redirect_from:
 
 Hi! I’m a first-year PhD candidate majoring in application of statistical physics in imaging neuroscience at Hong Kong Baptist University (HKBU), under the supervision of [Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from the University of Electronic Science and Technology of China (UESTC).
 
-My current research interests focuses on computational modeling in imaging neuroscience.
+My current research interest focuses on computational modeling in imaging neuroscience.
 
 I have published several papers in the filed of imaging neuroscience with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
