@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD candidate majoring in application of statistical physics in imaging neuroscience at Hong Kong Baptist University (HKBU), under the supervision of [Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from the University of Electronic Science and Technology of China (UESTC).
+Hi! I’m a first-year PhD candidate majoring in application of statistical physics in imaging neuroscience at HKBU, under the supervision of [Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl). Before that I obtained my M.S. and B.S. degrees from UESTC.
 
 My current research interest focuses on computational modeling in imaging neuroscience.
 
@@ -76,14 +76,14 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 
 # 💻 Research Experiences
 - *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
-- *2022.04 - 2025.06*, Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
+- *2022.04 - 2025.06*, Wei Liao Group (*supervisor: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
 - *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
 # 🎓 Collaborators
 - [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl), HKBU
-- [Prof. Wei Liao](https://scholar.google.com/citationsuser=rkGeZRMAAAAJ), UESTC
+- [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ), UESTC
 - [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
 - [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ), UESTC
 - [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ), NJIT
-- [Dr. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
+- [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
 
