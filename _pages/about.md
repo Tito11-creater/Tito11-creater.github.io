@@ -82,8 +82,11 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 # 🎓 Collaborators
 - [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl), HKBU
 - [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ), UESTC
-- [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
 - [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ), UESTC
 - [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ), NJIT
+- [Assoc. Prof. Qianyuan Tang](https://scholar.google.com/citations?user=uIbEi6MAAAAJ), HKBU
+- [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
 - [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
+- [Mr. Zhao Chang](https://scholar.google.com/citations?hl=zh-CN&user=oW291nUAAAAJ), HKBU
+- [Mr. Songjun Peng](https://scholar.google.com/citations?user=rTls9ZYAAAAJ), HKBU
 
