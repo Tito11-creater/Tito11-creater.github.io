@@ -35,7 +35,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Bulletin 2025</div><img src='images/Science_Bulletin_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal, multifaceted Imaging-based Human Brain White Matter Atlas](https://www.sciencedirect.com/science/article/pii/S2095927325008527)
+[Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas](https://www.sciencedirect.com/science/article/pii/S2095927325008527)
 
 **Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, Wei Liao
 
