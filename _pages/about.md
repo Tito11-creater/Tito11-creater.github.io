@@ -89,4 +89,6 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 - [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
 - [Mr. Zhao Chang](https://scholar.google.com/citations?hl=zh-CN&user=oW291nUAAAAJ), HKBU
 - [Mr. Songjun Peng](https://scholar.google.com/citations?user=rTls9ZYAAAAJ), HKBU
+- [Mr. Rui Ma](https://scholar.google.com/citations?hl=zh-CN&user=b323XQoAAAAJ), HKBU
+  
 
