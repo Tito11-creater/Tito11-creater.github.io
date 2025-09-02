@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD candidate majoring in application of statistical physics in imaging neuroscience at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
+Hi! I’m a first-year PhD candidate majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
 
 My current research interest focuses on computational modeling in imaging neuroscience.
 
