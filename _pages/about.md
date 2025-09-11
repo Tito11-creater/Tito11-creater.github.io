@@ -39,7 +39,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 **Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, Wei Liao
 
-[MWMA open resource](https://github.com/weiliao81/MWMA/tree/main)
+The MWMA resoure can be found on [our github repository](https://github.com/weiliao81/MWMA)
 
 </div>
 </div>
