@@ -36,6 +36,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 <div class='paper-box-text' markdown="1">
 
 [Multimodal, multifaceted, imaging-based human brain white matter atlas](https://www.sciencedirect.com/science/article/pii/S2095927325008527)
+[MWMA open resource](https://github.com/weiliao81/MWMA/tree/main)
 
 **Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, Wei Liao
 
