@@ -26,9 +26,10 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
-- *2025.06*: &nbsp;🎉🎉 Attending the OHBM 2025 in Brisbane.
+- *2025.06*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2025 in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
-- *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*. 
+- *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
+- *2021.07*: &nbsp;🎉🎉 Our abstract is accepted by *International Journal of Psychophysiology*. 
 
 # 📝 Publications 
 
@@ -62,6 +63,26 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 [Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
 
 Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke Li, Pei Liu, Cheng Luo, Jing Lu, and Dezhong Yao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Guo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Functional Connectivity and Gradient Difference Between Elderly Musicians and Nonmusicians: Evidence From Resting State fMRI](https://www.sciencedirect.com/science/article/pii/S0167876021007868?via=ihub)
+
+Sijia Guo, **Junchen Zhou**, Yan Liu, Jing Lu, and Dezhong Yao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Long.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Study on the Effect of Composition Training on Functional Gradients](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)
+
+Siyu Long, **Junchen Zhou**, Haineng Huang, Jing Lu, and Dezhong Yao
 
 </div>
 </div>
