@@ -26,10 +26,10 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
-- *2025.06*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2025 in Brisbane.
+- *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
 - *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
-- *2021.07*: &nbsp;🎉🎉 Our abstract is accepted by *International Journal of Psychophysiology* (Proceedings of the 20th World Congress of Psychophysiology). 
+- *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by *International Journal of Psychophysiology* (IOP 2021). 
 
 # 📝 Publications 
 
