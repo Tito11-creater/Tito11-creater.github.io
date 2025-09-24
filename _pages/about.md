@@ -47,6 +47,20 @@ The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2025</div><img src='images/OHBM2025poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mapping the functional connectome between grey matter and white matter](https://zenodo.org/records/15641972)
+
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Wei Liao, Jiao Li
+
+<br>
+
+Poster No. 1368
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain Sciences 2022</div><img src='images/Brain_Sciences_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
