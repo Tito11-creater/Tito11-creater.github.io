@@ -26,8 +26,9 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
-- *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 in Brisbane.
+- *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
+- *2022.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2022 Annual Metting in Glasgow.
 - *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
 - *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by *International Journal of Psychophysiology* (IOP 2021). 
 
@@ -67,6 +68,20 @@ Poster No. 1368
 [Different Music Training Modulates Theta Brain Oscillations Associated with Executive Function](https://www.mdpi.com/2076-3425/12/10/1304#)
 
 Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and Dezhong Yao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2022</div><img src='images/OHBM2022poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+The Neural Asymmetry Deviations between Guitarists and Pianists
+
+Ruijie Xu, **Junchen Zhou**, Siqi Liu, Shengyi Wang, Xiaolong Guo, Jing Lu
+
+<br>
+
+Poster No. WTh987
 
 </div>
 </div>
