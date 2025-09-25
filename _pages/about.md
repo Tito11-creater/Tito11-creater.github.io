@@ -39,7 +39,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 [Multimodal, multifaceted, imaging-based human brain white matter atlas](https://www.sciencedirect.com/science/article/pii/S2095927325008527)
 
-**Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, Wei Liao
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, and Wei Liao
 
 <br>
 
@@ -53,7 +53,7 @@ The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our 
 
 [Mapping the functional connectome between grey matter and white matter](https://zenodo.org/records/15641972)
 
-**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Wei Liao, Jiao Li
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Wei Liao, and Jiao Li
 
 <br>
 
@@ -77,7 +77,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 
 The Neural Asymmetry Deviations between Guitarists and Pianists
 
-Ruijie Xu, **Junchen Zhou**, Siqi Liu, Shengyi Wang, Xiaolong Guo, Jing Lu
+Ruijie Xu, **Junchen Zhou**, Siqi Liu, Shengyi Wang, Xiaolong Guo, and Jing Lu
 
 <br>
 
