@@ -72,7 +72,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2022</div><img src='images/OHBM2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2022</div><img src='images/OHBM2022poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 The Neural Asymmetry Deviations between Guitarists and Pianists
