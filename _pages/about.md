@@ -99,7 +99,7 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Guo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Functional Connectivity and Gradient Difference Between Elderly Musicians and Nonmusicians: Evidence From Resting State fMRI](https://www.sciencedirect.com/science/article/pii/S0167876021007868?via=ihub)
+[Functional Connectivity and Gradient Difference Between Elderly Musicians and Nonmusicians: Evidence From Resting State fMRI](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)
 
 Sijia Guo, **Junchen Zhou**, Yan Liu, Jing Lu, and Dezhong Yao
 
@@ -109,7 +109,7 @@ Sijia Guo, **Junchen Zhou**, Yan Liu, Jing Lu, and Dezhong Yao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Long.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Study on the Effect of Composition Training on Functional Gradients](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)
+[A Study on the Effect of Composition Training on Functional Gradients](https://www.sciencedirect.com/science/article/pii/S0167876021007868?via=ihub)
 
 Siyu Long, **Junchen Zhou**, Haineng Huang, Jing Lu, and Dezhong Yao
 
