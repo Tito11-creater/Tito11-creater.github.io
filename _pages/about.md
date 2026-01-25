@@ -43,7 +43,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 <br>
 
-The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our GitHub repository](https://github.com/weiliao81/MWMA)
+The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/MWMA)
 
 </div>
 </div>
