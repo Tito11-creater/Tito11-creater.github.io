@@ -20,17 +20,18 @@ redirect_from:
 
 Hi! I’m a first-year PhD candidate majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
 
-My current research interests focus on modeling brain dynamics, developing individualized brain atlas, and analysis of brain networks.
+My current research interests focus on modeling brain dynamics, developing brain atlas, and analysis of brain networks.
 
 I have published several papers with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2026 Annual Metting.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
 - *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
 - *2022.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2022 Annual Metting in Glasgow.
 - *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
-- *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by *International Journal of Psychophysiology* (IOP 2021). 
+- *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the IOP 2021 Metting. 
 
 # 📝 Publications 
 
