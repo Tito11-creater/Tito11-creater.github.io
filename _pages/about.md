@@ -25,6 +25,7 @@ My current research interests focus on modeling brain dynamics, developing brain
 I have published several papers with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
 - *2026.02*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2026 Annual Metting.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
 - *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
@@ -34,13 +35,26 @@ I have published several papers with total <a href='https://scholar.google.com/c
 - *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the IOP 2021 Metting in Chengdu. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology 2026</div><img src='images/Communications_Biology_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mapping the functional connectome between grey matter and white matter](XXXX)
+
+**Junchen Zhou**, Wenxia Li, Siyuan Luo, Kangjia Chen, Shuo Xu, Qingjin Liu, Huafu Chen, Wei Liao, and <span>Jiao Li<sup>*</sup></span>
+
+<br>
+
+The GM-WM FC resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/GM-WM-FC)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Bulletin 2025</div><img src='images/Science_Bulletin_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal, multifaceted, imaging-based human brain white matter atlas](https://www.sciencedirect.com/science/article/pii/S2095927325008527)
 
-**Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, Huafu Chen, Jiao Li, and Wei Liao
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Bharat B. Biswal, <span>Huafu Chen<sup>*</sup></span>, <span>Jiao Li<sup>*</sup></span>, and <span>Wei Liao<sup>*</sup></span>
 
 <br>
 
@@ -54,7 +68,7 @@ The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our 
 
 [Mapping the functional connectome between grey matter and white matter](https://zenodo.org/records/15641972)
 
-**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Wei Liao, and Jiao Li
+**Junchen Zhou**, Wenxia Li, Shuo Xu, Huafu Chen, Wei Liao, and <span>Jiao Li<sup>*</sup></span>
 
 <br>
 
@@ -68,7 +82,7 @@ Poster No. 1368
 
 [Different Music Training Modulates Theta Brain Oscillations Associated with Executive Function](https://www.mdpi.com/2076-3425/12/10/1304#)
 
-Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and Dezhong Yao
+Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, <span>Jing Lu<sup>*</sup></span>, and <span>Dezhong Yao<sup>*</sup></span>
 
 </div>
 </div>
@@ -78,7 +92,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, Jing Lu, and D
 
 The Neural Asymmetry Deviations between Guitarists and Pianists
 
-Ruijie Xu, **Junchen Zhou**, Siqi Liu, Shengyi Wang, Xiaolong Guo, and Jing Lu
+Ruijie Xu, **Junchen Zhou**, Siqi Liu, Shengyi Wang, Xiaolong Guo, and <span>Jing Lu<sup>*</sup></span>
 
 <br>
 
@@ -92,7 +106,7 @@ Poster No. WTh987
 
 [Chinese and Western Musical Training Impacts the Circuit in Auditory and Reward System](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)
 
-Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke Li, Pei Liu, Cheng Luo, Jing Lu, and Dezhong Yao
+Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke Li, Pei Liu, Cheng Luo, <span>Jing Lu<sup>*</sup></span>, and <span>Dezhong Yao<sup>*</sup></span>
 
 </div>
 </div>
@@ -102,7 +116,7 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 
 [Functional Connectivity and Gradient Difference Between Elderly Musicians and Nonmusicians: Evidence From Resting State fMRI](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)
 
-Sijia Guo, **Junchen Zhou**, Yan Liu, Jing Lu, and Dezhong Yao
+Sijia Guo, **Junchen Zhou**, Yan Liu, <span>Jing Lu<sup>*</sup></span>, and <span>Dezhong Yao<sup>*</sup></span>
 
 </div>
 </div>
@@ -112,7 +126,7 @@ Sijia Guo, **Junchen Zhou**, Yan Liu, Jing Lu, and Dezhong Yao
 
 [A Study on the Effect of Composition Training on Functional Gradients](https://www.sciencedirect.com/science/article/pii/S0167876021007868?via=ihub)
 
-Siyu Long, **Junchen Zhou**, Haineng Huang, Jing Lu, and Dezhong Yao
+Siyu Long, **Junchen Zhou**, Haineng Huang, <span>Jing Lu<sup>*</sup></span>, and <span>Dezhong Yao<sup>*</sup></span>
 
 </div>
 </div>
