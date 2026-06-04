@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a first-year PhD candidate majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
+Hi! I’m a first-year PhD candidate majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
 
 My current research interests focus on modeling brain dynamics, developing brain atlas, and analysis of brain networks.
 
@@ -145,13 +145,13 @@ Siyu Long, **Junchen Zhou**, Haineng Huang, <span>Jing Lu<sup>*</sup></span>, an
 
 # 💻 Research Experiences
 - *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
-- *2022.04 - 2025.06*, Wei Liao Group (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
-- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Assoc. Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
+- *2022.04 - 2025.06*, Wei Liao Group (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
+- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
 # 🎓 Collaborators
 - [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl), HKBU
 - [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ), UESTC
-- [Assoc. Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
+- [Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ), UESTC
 - [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ), UESTC
 - [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ), NJIT
 - [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
