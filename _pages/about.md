@@ -35,19 +35,6 @@ I have published several papers with total <a href='https://scholar.google.com/c
 - *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the IOP 2021 Metting in Chengdu. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology 2026</div><img src='images/Communications_Biology_2026.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mapping the functional connectome between grey matter and white matter](XXXX)
-
-**Junchen Zhou**, Wenxia Li, Siyuan Luo, Kangjia Chen, Shuo Xu, Qingjin Liu, Huafu Chen, Wei Liao, and <span>Jiao Li<sup>*</sup></span>
-
-<br>
-
-The GM-WM FC resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/GM-WM-FC)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Bulletin 2025</div><img src='images/Science_Bulletin_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
