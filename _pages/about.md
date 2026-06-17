@@ -39,7 +39,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology 2026</div><img src='images/Communications_Biology_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mapping the functional connectome between grey matter and white matter](XXXX)
+[Mapping the functional connectome between grey matter and white matter](https://www.nature.com/articles/s42003-026-10483-7)
 
 **Junchen Zhou**, Wenxia Li, Siyuan Luo, Kangjia Chen, Shuo Xu, Qingjin Liu, Huafu Chen, Wei Liao, and <span>Jiao Li<sup>*</sup></span>
 
