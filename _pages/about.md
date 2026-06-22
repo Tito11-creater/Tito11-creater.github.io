@@ -45,7 +45,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 <br>
 
-The GM-WM FC resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/GM-WM-FC)
+The **GM-WM FC** resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/GM-WM-FC)
 
 </div>
 </div>
@@ -59,7 +59,8 @@ The GM-WM FC resource is publicly available on [our GitHub repository](https://g
 
 <br>
 
-The Multimodal White Matter Atlas (MWMA) resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/MWMA)
+The **Multimodal White Matter Atlas (MWMA)** resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/MWMA)
+The **MWMA** is now integrated into [**WhiFun**](https://github.com/Brain-Connectivity-Lab/WhiFuN) — an open-source toolkit for studying the WM functional connectome.
 
 </div>
 </div>
