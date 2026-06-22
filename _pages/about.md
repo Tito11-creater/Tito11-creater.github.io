@@ -61,7 +61,7 @@ The **GM-WM FC** resource is publicly available on [our GitHub repository](https
 
 The **Multimodal White Matter Atlas (MWMA)** resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/MWMA)
 
-The **MWMA** is now integrated into [**WhiFun**](https://github.com/Brain-Connectivity-Lab/WhiFuN) — an open-source toolkit for studying the WM functional connectome.
+The **MWMA** is now integrated into [**WhiFun**](https://github.com/Brain-Connectivity-Lab/WhiFuN) — an open-source toolkit for studying the WM FC
 
 </div>
 </div>
