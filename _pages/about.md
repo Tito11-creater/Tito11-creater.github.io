@@ -26,7 +26,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
-- *2026.02*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2026 Annual Metting.
+- *2026.02*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2026 Annual Metting in Bordeaux.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
 - *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
@@ -66,7 +66,7 @@ The **MWMA** is now integrated into [**WhiFun**](https://github.com/Brain-Connec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2025</div><img src='images/OHBM2025poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2025 meeting</div><img src='images/OHBM2025poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mapping the functional connectome between grey matter and white matter](https://zenodo.org/records/15641972)
@@ -90,7 +90,7 @@ Junce Wang, Ruijie Xu, Xiaolong Guo, Sijia Guo, **Junchen Zhou**, <span>Jing Lu<
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2022</div><img src='images/OHBM2022poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM 2022 meeting</div><img src='images/OHBM2022poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 The Neural Asymmetry Deviations between Guitarists and Pianists
@@ -114,7 +114,7 @@ Sijia Guo, Ke Peng, Rui Ding, **Junchen Zhou**, Yan Liu, Yao He, Yuhong Liu, Ke 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Guo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOP 2021 meeting</div><img src='images/IJP_2021_Guo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Functional Connectivity and Gradient Difference Between Elderly Musicians and Nonmusicians: Evidence From Resting State fMRI](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)
@@ -124,7 +124,7 @@ Sijia Guo, **Junchen Zhou**, Yan Liu, <span>Jing Lu<sup>*</sup></span>, and <spa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Psychophysiology 2021</div><img src='images/IJP_2021_Long.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOP 2021 meeting</div><img src='images/IJP_2021_Long.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Study on the Effect of Composition Training on Functional Gradients](https://www.sciencedirect.com/science/article/pii/S0167876021007868?via=ihub)
