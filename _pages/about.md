@@ -26,7 +26,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
-- *2026.02*: &nbsp;🎉🎉 Our abstract is accepted by the OHBM 2026 Annual Metting in Bordeaux.
+- *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2026 Annual Metting in Bordeaux.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
 - *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
@@ -46,6 +46,20 @@ I have published several papers with total <a href='https://scholar.google.com/c
 <br>
 
 The **GM-WM FC** resource is publicly available on [our GitHub repository](https://github.com/Tito11-creater/GM-WM-FC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OHBM meeting 2026</div><img src='images/OHBM2026poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Shared Transdiagnostic Pattern of Structural–Functional Coupling Across Psychiatric Disorders](https://zenodo.org/records/20817576)
+
+Wenxia Li, **Junchen Zhou**, Siyuan Luo, Huafu Chen, Wei Liao, and <span>Jiao Li<sup>*</sup></span>
+
+<br>
+
+Poster No. 495
 
 </div>
 </div>
