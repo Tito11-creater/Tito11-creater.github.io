@@ -91,6 +91,10 @@ The **MWMA** is now integrated into [**WhiFun**](https://github.com/Brain-Connec
 
 Poster No. 1368
 
+<br>
+
+The peer‑reviewed paper is now available in [Communications Biology](https://www.nature.com/articles/s42003-026-10483-7)
+
 </div>
 </div>
 
