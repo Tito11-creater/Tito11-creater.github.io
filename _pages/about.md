@@ -28,9 +28,9 @@ I have published several papers with total <a href='https://scholar.google.com/c
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
 - *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2026 Annual Metting in Bordeaux.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
-- *2025.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
+- *2025.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
 - *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
-- *2022.06*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2022 Annual Metting in Glasgow.
+- *2022.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2022 Annual Metting in Glasgow.
 - *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
 - *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the IOP 2021 Metting in Chengdu. 
 
