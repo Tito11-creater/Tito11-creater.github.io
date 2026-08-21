@@ -25,6 +25,7 @@ My current research interests focus on modeling brain dynamics, developing brain
 I have published several papers with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our abstract poster is accepted by the APSN–FAONS–HKSN 2026 Metting in Hong Kong.
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
 - *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2026 Annual Metting in Bordeaux.
 - *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
