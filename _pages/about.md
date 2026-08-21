@@ -48,10 +48,6 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 Poster No. 26-P032
 
-<br>
-
-The peer‑reviewed paper is now available in [Communications Biology](https://www.nature.com/articles/s42003-026-10483-7)
-
 </div>
 </div>
 
