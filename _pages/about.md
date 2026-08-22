@@ -37,7 +37,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSN–FAONS–HKSN meeting 2026</div><img src='images/HKU2026poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSN–FAONS–HKSN meeting 2026</div><img src='images/HKU2026poster_250.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An improved atlas-guided parcellation framework for generating individualized functionally homogeneous brain atlas](https://www.apsn-faons-hksn-2026.org/images/APSN_FAONS_HKSN_2026_Conference_Abstract_Book_Final.pdf)
