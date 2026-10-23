@@ -191,3 +191,4 @@ Siyu Long, **Junchen Zhou**, Haineng Huang, <span>Jing Lu<sup>*</sup></span>, an
 - [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ), UESTC
 - [Prof. Bharat Biswal](https://scholar.google.com/citations?user=FJ8WWDYAAAAJ), NJIT
 - [Ms. Wenxia Li](https://scholar.google.com/citations?user=uwfHf9EAAAAJ), UESTC
+- [Ms. Kangjia Chen](https://scholar.google.com/citations?user=xBixRqkAAAAJ&hl), UESTC
