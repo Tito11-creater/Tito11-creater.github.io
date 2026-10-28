@@ -179,9 +179,9 @@ Siyu Long, **Junchen Zhou**, Haineng Huang, <span>Jing Lu<sup>*</sup></span>, an
 - *2018.09 - 2022.07*, B.S. degree, Department of Biomedical Engineering, School of Life Science and Technology, UESTC
 
 # 💻 Research Experiences
-- *2025.07 - present*, Centre for Nonlinear Studies (*supervisor: [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
-- *2022.04 - 2025.06*, Wei Liao Group (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (*supervisor: [Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
-- *2020.09 - 2022.03*, Brain and Music group (*supervisor: [Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (*supervisor: [Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
+- *2025.07 - present*, Centre for Nonlinear Studies (supervisor: *[Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*)
+- *2022.04 - 2025.06*, Wei Liao Group (supervisors: *[Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ)* and *[Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*), Brain Imaging and Pattern Recognition Laboratory (director: *[Prof. Huafu Chen](https://scholar.google.com/citations?user=NPWY0n0AAAAJ)*)
+- *2020.09 - 2022.03*, Brain and Music group (supervisor: *[Prof. Jing Lu](https://scholar.google.com/citations?user=OLWmCDYAAAAJ)*), Key Laboratory for NeuroInformation of Ministry of Education (director: *[Prof. Dezhong Yao](https://scholar.google.com/citations?user=ClUoWqsAAAAJ)*)
 
 # 🎓 Collaborators
 - [Prof. Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl), HKBU
