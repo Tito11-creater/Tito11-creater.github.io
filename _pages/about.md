@@ -18,13 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a second-year PhD student majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (*supervisors: [Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ) and [Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
+Hi! I’m a second-year PhD student majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (supervisors: *[Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ)* and *[Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
 
-My current research interests focus on modeling brain dynamics, developing brain atlas, and analysis of brain networks.
-
-I have published several papers with total <a href='https://scholar.google.com/citations?user=gwcLtTMAAAAJ'>google scholar citations <strong><span id='total_cit'>.
+My current research interests focus on modelling brain dynamics, developing individualized brain atlas, and analysis of brain networks.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
 - *2026.08*: &nbsp;🎉🎉 Our abstract poster is accepted by the APSN–FAONS–HKSN 2026 Metting in Hong Kong.
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
 - *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2026 Annual Metting in Bordeaux.
