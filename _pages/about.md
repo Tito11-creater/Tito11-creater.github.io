@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi! I’m a second-year PhD student majoring in modeling on brain imaging data at HKBU, under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that I obtained my M.S. and B.S. degrees from UESTC (supervisors: *[Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ)* and *[Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
+Hi! I’m a second-year PhD student at HKBU, working on modelling of brain imaging data under the supervision of *[Prof.Changsong Zhou](https://scholar.google.com/citations?user=p3V8N-4AAAAJ&hl)*. Before that, I obtained my M.S. and B.S. degrees from UESTC, under the supervision of *[Prof. Wei Liao](https://scholar.google.com/citations?user=rkGeZRMAAAAJ)* and *[Prof. Jiao Li](https://scholar.google.com/citations?user=5m3deHsAAAAJ)*).
 
-My current research interests focus on modelling brain dynamics, developing individualized brain atlas, and analysis of brain networks.
+My current research interests focus on modelling brain dynamics, developing individualized brain atlases, and analyzing brain networks. I am currently applying these approaches to Major Depressive Disorder, aiming to identify novel neuroimaging biomarkers.
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
