@@ -24,15 +24,15 @@ My current research interests focus on modelling brain dynamics, developing indi
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
-- *2026.08*: &nbsp;🎉🎉 Our abstract poster is accepted by the APSN–FAONS–HKSN 2026 Metting in Hong Kong.
-- *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology*. 
-- *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2026 Annual Metting in Bordeaux.
-- *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *Science Bulletin*. 
-- *2025.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2025 Annual Metting in Brisbane.
-- *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *Brain Sciences*.
-- *2022.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the OHBM 2022 Annual Metting in Glasgow.
-- *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *Frontiers in Neuroscience*.
-- *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the IOP 2021 Metting in Chengdu. 
+- *2026.08*: &nbsp;🎉🎉 Our abstract poster is accepted by the *[APSN–FAONS–HKSN 2026 Metting](https://www.apsn-faons-hksn-2026.org/images/APSN_FAONS_HKSN_2026_Conference_Abstract_Book_Final.pdf)* in Hong Kong.
+- *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *[Communications Biology](https://www.nature.com/articles/s42003-026-10483-7)*. 
+- *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the *[OHBM 2026 Annual Metting](https://zenodo.org/records/20817576)* in Bordeaux.
+- *2025.07*: &nbsp;🎉🎉 Our paper is accepted by *[Science Bulletin](https://www.sciencedirect.com/science/article/pii/S2095927325008527)*. 
+- *2025.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the *[OHBM 2025 Annual Metting](https://zenodo.org/records/15641972)* in Brisbane.
+- *2022.09*: &nbsp;🎉🎉 Our paper is accepted by *[Brain Sciences](https://www.mdpi.com/2076-3425/12/10/1304#)*.
+- *2022.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the *OHBM 2022 Annual Metting* in Glasgow.
+- *2021.07*: &nbsp;🎉🎉 Our paper is accepted by *[Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.663015/full)*.
+- *2021.07*: &nbsp;🎉🎉 Our abstract posters are accepted by the *[IOP 2021 Metting](https://www.sciencedirect.com/science/article/pii/S0167876021007856?via%3Dihub)* in Chengdu. 
 
 # 📝 Publications 
 
