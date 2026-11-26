@@ -36,6 +36,16 @@ My current research interests focus on modelling brain dynamics, developing indi
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology 2026</div><img src='images/Communications_Biology_2026_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Disrupted balance of gray–white matter interactions across psychiatric disorders](https://www.nature.com/articles/s42003-026-11364-9)
+
+Wenxia Li, **Junchen Zhou**, Siyuan Luo, Zhiliang Long, Jiang Qiu, Shaoqiang Han, Yuan Chen, Guanqun Yao, Yong Xu, Yong Zhang, Huafu Chen, <span>Jiao Li<sup>*</sup></span>, and <span>Wei Liao<sup>*</sup></span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSN–FAONS–HKSN meeting 2026</div><img src='images/HKU2026poster_250.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
