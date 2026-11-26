@@ -23,7 +23,7 @@ Hi! I’m a second-year PhD student at HKBU, working on modelling of brain imagi
 My current research interests focus on modelling brain dynamics, developing individualized brain atlases, and analyzing brain networks. I am currently applying these approaches to Major Depressive Disorder, aiming to identify novel neuroimaging biomarkers.
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Our paper is accepted by *Communications Biology[https://www.nature.com/articles/s42003-026-11364-9]*. 
+- *2026.10*: &nbsp;🎉🎉 Our paper is accepted by *[Communications Biology](https://www.nature.com/articles/s42003-026-11364-9)*. 
 - *2026.08*: &nbsp;🎉🎉 Our abstract poster is accepted by the *[APSN–FAONS–HKSN 2026 Metting](https://www.apsn-faons-hksn-2026.org/images/APSN_FAONS_HKSN_2026_Conference_Abstract_Book_Final.pdf)* in Hong Kong.
 - *2026.06*: &nbsp;🎉🎉 Our paper is accepted by *[Communications Biology](https://www.nature.com/articles/s42003-026-10483-7)*. 
 - *2026.02*: &nbsp;🎉🎉 Our abstract poster is accepted by the *[OHBM 2026 Annual Metting](https://zenodo.org/records/20817576)* in Bordeaux.
